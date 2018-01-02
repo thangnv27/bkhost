@@ -1,0 +1,1 @@
+<?php wp_redirect(get_bloginfo('url').'/may-chu-ao-vps');
